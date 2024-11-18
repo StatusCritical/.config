@@ -1,2 +1,0 @@
-yay -Sua
-pacman -Syu
