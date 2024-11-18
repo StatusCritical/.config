@@ -1,0 +1,71 @@
+2024-11-18 01:21:33.323 [info] [main] Log level: Info
+2024-11-18 01:21:33.323 [info] [main] Validating found git in: "git"
+2024-11-18 01:21:33.798 [info] [main] Using git "2.47.0" from "git"
+2024-11-18 01:21:33.798 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-18 01:21:34.085 [info] > git rev-parse --show-toplevel [236ms]
+2024-11-18 01:21:34.122 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-11-18 01:21:34.137 [info] [Model][openRepository] Opened repository: /home/uwu/.config
+2024-11-18 01:21:34.172 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-18 01:21:34.191 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-18 01:21:34.196 [info] > git config --get commit.template [40ms]
+2024-11-18 01:21:34.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-11-18 01:21:34.217 [warning] [Git][getBranch] No such branch: main
+2024-11-18 01:21:34.251 [info] > git rev-parse --show-toplevel [34ms]
+2024-11-18 01:21:34.266 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2024-11-18 01:21:34.268 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-18 01:21:34.280 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-18 01:21:34.292 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-18 01:21:34.306 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-18 01:21:34.324 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-18 01:21:34.346 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-18 01:21:34.373 [info] > git status -z -uall [138ms]
+2024-11-18 01:21:34.729 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [224ms]
+2024-11-18 01:21:34.729 [warning] [Git][getBranch] No such branch: main
+2024-11-18 01:21:34.730 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2024-11-18 01:21:34.731 [info] > git rev-parse --show-toplevel [362ms]
+2024-11-18 01:21:34.751 [info] > git config --get commit.template [27ms]
+2024-11-18 01:21:34.925 [info] > git rev-parse --show-toplevel [175ms]
+2024-11-18 01:21:34.965 [info] > git check-ignore -v -z --stdin [20ms]
+2024-11-18 01:21:34.966 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2024-11-18 01:21:34.966 [warning] [Git][getBranch] No such branch: main
+2024-11-18 01:21:34.996 [info] > git rev-parse --show-toplevel [32ms]
+2024-11-18 01:21:35.030 [info] > git status -z -uall [52ms]
+2024-11-18 01:21:35.030 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [36ms]
+2024-11-18 01:21:35.038 [info] > git rev-parse --show-toplevel [20ms]
+2024-11-18 01:21:35.168 [info] > git rev-parse --show-toplevel [90ms]
+2024-11-18 01:21:35.269 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-18 01:21:35.306 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-18 01:21:35.319 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-18 01:21:35.330 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-18 01:21:35.365 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-18 01:21:35.385 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-18 01:21:35.398 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-18 01:21:35.399 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-18 01:21:35.427 [info] > git ls-files --stage -- /home/uwu/.config/i3/config [4ms]
+2024-11-18 01:21:35.466 [info] > git show --textconv :i3/config [57ms]
+2024-11-18 01:21:35.467 [info] > git cat-file -s 3d6309a9bdac2e52941659b2dc51fa60c43bfe8f [30ms]
+2024-11-18 01:21:37.032 [info] > git config --get commit.template [9ms]
+2024-11-18 01:21:37.033 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-18 01:21:37.034 [warning] [Git][getBranch] No such branch: main
+2024-11-18 01:21:37.057 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-18 01:21:37.062 [info] > git status -z -uall [17ms]
+2024-11-18 01:21:42.100 [info] > git config --get commit.template [11ms]
+2024-11-18 01:21:42.101 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-18 01:21:42.101 [warning] [Git][getBranch] No such branch: main
+2024-11-18 01:21:42.127 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2024-11-18 01:21:42.133 [info] > git status -z -uall [18ms]
+2024-11-18 01:21:52.897 [info] > git config --get commit.template [11ms]
+2024-11-18 01:21:52.900 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-18 01:21:52.900 [warning] [Git][getBranch] No such branch: main
+2024-11-18 01:21:52.921 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-18 01:21:52.923 [info] > git status -z -uall [13ms]
+2024-11-18 01:21:57.947 [info] > git config --get commit.template [7ms]
+2024-11-18 01:21:57.949 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-18 01:21:57.949 [warning] [Git][getBranch] No such branch: main
+2024-11-18 01:21:57.967 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-18 01:21:57.973 [info] > git status -z -uall [17ms]
+2024-11-18 01:22:28.495 [info] > git config --get commit.template [2ms]
+2024-11-18 01:22:28.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-18 01:22:28.511 [warning] [Git][getBranch] No such branch: main
+2024-11-18 01:22:28.535 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-18 01:22:28.537 [info] > git status -z -uall [17ms]
