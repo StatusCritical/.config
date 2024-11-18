@@ -1,0 +1,10 @@
+2024-11-16 18:10:18.980 [info] Extension host with pid 1817 started
+2024-11-16 18:10:18.980 [info] Skipping acquiring lock for /home/uwu/.config/Code - OSS/User/workspaceStorage/b5cd593af5ad9a66e3301290b7416e98.
+2024-11-16 18:10:19.186 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-16 18:10:19.436 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-16 18:10:19.438 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2024-11-16 18:10:19.563 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-16 18:10:19.726 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-16 18:10:19.857 [info] Eager extensions activated
+2024-11-16 18:10:19.941 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-16 18:10:19.944 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

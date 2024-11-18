@@ -1,0 +1,28 @@
+2024-11-17 19:15:50.627 [info] update#setState disabled
+2024-11-17 19:15:50.640 [info] update#ctor - updates are disabled as there is no update URL
+2024-11-17 20:07:29.793 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:07:33.243 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:07:44.274 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:09:18.323 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:09:21.490 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:09:22.162 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:09:22.730 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:09:23.277 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:09:23.841 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:09:24.390 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:09:24.948 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:10:13.191 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-17 20:10:17.332 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
